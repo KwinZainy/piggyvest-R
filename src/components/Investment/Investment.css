@@ -47,3 +47,48 @@
         color:rgb(61, 79, 96);
     }
 }
+
+@media(max-width: 1020px){
+    .inv-head{
+    h1{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    p{
+        
+        font-size: 19px;
+    }
+}
+.inv-body{
+    flex-direction: column;
+    width: 360px;
+    height: 620px;
+    margin: 0px;
+    padding: 70px 10px;
+    
+}
+.i-img img{
+    width: 320px;
+}
+.i-img{
+    margin: auto;
+    margin-top: 40px;
+}
+.i-text{
+    h2{
+        font-size: 25px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    p{
+        font-size: 18px;
+        width: 100%;
+        line-height: 25px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    a{
+       padding: 50px;
+    }
+}
+}

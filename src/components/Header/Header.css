@@ -45,3 +45,18 @@ nav{
     display: none;
     width: 30px;
 }
+
+@media(max-width: 1020px){
+    nav a{
+        display: none;
+    }
+    .menu{
+        display: block;
+        img{
+            width: 40px;
+        }
+    }
+    nav{
+        padding: 20px 10px;
+    }
+}
