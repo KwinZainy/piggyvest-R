@@ -1,0 +1,49 @@
+.invest{
+    padding: 100px 30px;
+    background-color: white;
+}
+.inv-body{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 70px 70px 0px 70px;
+    background-color: #7913E5;
+    border-radius: 40px;
+    margin-bottom: 70px;
+}
+.i-img img{
+    width: 480px;
+}
+.i-text{
+    h2{
+        font-size: 35px;
+        color: white;
+        margin-bottom: 35px;
+    }
+    p{
+        font-size: 20px;
+        color:rgb(254, 214, 241);
+        width: 280px;
+        line-height: 28px;
+        margin-bottom: 200px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 18px;
+        color: white;   
+    }
+}
+.inv-head{
+    margin-bottom: 60px;
+    text-align: center;
+    h1{
+        font-size: 48px;
+        color: rgb(18, 34, 49);
+    }
+    p{
+        font-size: 25px;
+        color:rgb(61, 79, 96);
+    }
+}

@@ -2,9 +2,9 @@ import Phone1 from "../../assets/img/phone1.png"
 import Phone2 from "../../assets/img/phone2.png"
 import Phone3 from "../../assets/img/firstp.avif"
 import Phone4 from "../../assets/img/secondp.avif"
-import Phone5 from "../../assets/img/thridp.avif"
+import Phone5 from "../../assets/img/thirdp.avif"
 import Phone6 from "../../assets/img/iPhone 14 - 1.png" 
-
+import "./Main.css"
 
 const Main = () =>{
     return (
@@ -72,3 +72,5 @@ const Main = () =>{
         </>
     )
 }
+
+export default Main
