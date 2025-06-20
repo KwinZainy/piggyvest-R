@@ -6,6 +6,7 @@ import Main from './components/Main/Main'
 import Investment from './components/Investment/Investment'
 import Video from './components/Video/Video'
 import About from './components/About/About'
+import Footer from './components/Footer/Footer'
 function App() {
  return(
     <>
@@ -16,6 +17,7 @@ function App() {
   <Investment />
   <Video />
   <About />
+  <Footer />
   </>
  )
 }
