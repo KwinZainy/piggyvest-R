@@ -1,0 +1,27 @@
+section{
+    display: flex;
+    width: 60%;
+    gap: 30px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+.section-texts{
+      h3{
+        font-size: 28px;
+        color:rgb(18, 34, 49);
+      }
+      p{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 27px;
+        color: rgb(18, 34, 49);
+      }
+      a{
+        
+        text-decoration: none;
+        color: rgb(18, 34, 49);
+        font-size: 16px;
+        font-weight: 600;
+      }
+}
