@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero'
 import Section from './components/Section/Section'
 import Main from './components/Main/Main'
 import Investment from './components/Investment/Investment'
+import Video from './components/Video/Video'
 function App() {
  return(
     <>
@@ -12,6 +13,7 @@ function App() {
   <Section />
   <Main />
   <Investment />
+  <Video />
   </>
  )
 }
